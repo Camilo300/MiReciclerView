@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Recycler_View</string>
+    <string-array name="equipos">
+        <item>Cobreloa</item>
+        <item>Colo Colo</item>
+        <item>OHiggins</item>
+        <item>Universidad de Chile</item>
+        <item>Ñublense</item>
+    </string-array>
+
+    <string-array name="anios">
+        <item>1977</item>
+        <item>1925</item>
+        <item>1955</item>
+        <item>1927</item>
+        <item>1916</item>
+    </string-array>
+</resources>
